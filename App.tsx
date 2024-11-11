@@ -58,7 +58,7 @@ export default function App() {
               name="Home"
               component={Home}
               options={{
-                headerTitle: "Budget Buddy",
+                headerTitle: "finance Buddy",
                 headerLargeTitle: true,
                 headerTransparent: Platform.OS === "ios" ? true : false,
                 headerBlurEffect: "light",
